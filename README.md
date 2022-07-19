@@ -18,4 +18,13 @@ Since there was a greater usage of rides in the urban cities, the total fares wa
 
 ![image](https://user-images.githubusercontent.com/107137215/179610584-276e0521-4737-47f4-97f0-e50699e56a43.png)
 
+When we look at the fare, then the average fare per ride in rural cities are $10 more than urban cities. The average fare per ride in the rural cities cost almost $35, whereas the average fare per ride in the urban cities is nearlye $25 and in the suburban cities is about $31. It may not be good market to ride in th rural cities, but it is the very good market for driver to ride in the rural cities. The averga fare per driver in the rural cities is about $56, whereas the average fare per driver in urban cities is  about $17 and in the suburban cities is about  $40. 
+
+
+![image](https://user-images.githubusercontent.com/107137215/179779625-3edff433-1ab3-4b57-9863-a7f34040b3d2.png)
+
+The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. The yellow line shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period. In contrast, the blue line shows how fares in rural cities totaled around $300 from beginning to end during the same time period. The orange line shows how the total fares in suruban cities fall in between urban and rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. 
+
+![image](https://user-images.githubusercontent.com/107137215/179783162-4dc3fb41-f3c3-4d95-a7c8-6af6986f91fa.png)
+
 
